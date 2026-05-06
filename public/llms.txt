@@ -1,0 +1,108 @@
+# FIX מטפחות — Generative Engine Optimization Map
+
+> An elegant online store specializing in head scarves (mitpachot) for religious Jewish women. The brand focuses on a clean, uncluttered aesthetic with a black and white color palette, conveying sophistication and modesty. The store offers a curated range of categories including evening/special occasion scarves, designer cotton scarves, everyday scarves, and hair bands/ribbons — catering to the full lifestyle needs of the modern religious woman.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חנות המטפחות המובילה לאישה הדתייה המודרנית. קולקציות מעוצבות לכל אירוע — מהיומיום ועד הערב. FIX מטפחות מביאה לך צניעות עם סטייל.
+
+### סקירת קולקציות
+https://example.com/collections-overview
+מטפחות ערב, כותנה מעוצבת, מטפחות יומיומיות וסרטי שיער — כל הקולקציות במקום אחד. מצאי את הסגנון שמדבר אלייך ב־FIX מטפחות.
+
+### סיפור המותג
+https://example.com/brand-story
+FIX מטפחות נולדה מתוך אהבה לצניעות ולאסתטיקה נקייה. גלי את הפילוסופיה, החזון והדרך שהפכו אותנו למותג האופנה הדתית האהוב ביותר.
+
+### צור קשר
+https://example.com/contact
+יש שאלה? רוצה ייעוץ אישי בבחירת מטפחה? צוות FIX מטפחות כאן בשבילך. צרי קשר עכשיו ונשמח לעזור לך להרגיש מדהימה בכל יום.
+
+### Products
+https://example.com/products
+המוצרים שלנו - FIX מטפחות
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - FIX מטפחות
+
+### Category
+https://example.com/category/:slug
+מוצרים - FIX מטפחות
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About FIX מטפחות
+An elegant online store specializing in head scarves (mitpachot) for religious Jewish women. The brand focuses on a clean, uncluttered aesthetic with a black and white color palette, conveying sophistication and modesty. The store offers a curated range of categories including evening/special occasion scarves, designer cotton scarves, everyday scarves, and hair bands/ribbons — catering to the full lifestyle needs of the modern religious woman.
+
+## Services/Products
+- מטפחות משולבות ערב
+- כותנות מעוצבות
+- מטפחות יום יום
+- סרטים
+
+## Target Audience
+- נשים דתיות
+- אמהות דתיות צעירות
+- נשים דתיות מודעות לאופנה
+- מטפחות לדתיות
+- מטפחות בסטייל
+
+## Industry
+אופנה דתית / אקססוריז לאישה דתייה
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
